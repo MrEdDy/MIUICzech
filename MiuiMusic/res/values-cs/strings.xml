@@ -165,7 +165,7 @@
   <string name="rename_playlist_same_name">Název seznamu skladeb %s již existuje</string>
   <string name="repeat_current">Opakovat aktuální skladbu</string>
   <string name="repeat_none">Neopakovat nic</string>
-  <string name="repeat_playlist">Opakujte playlist</string>
+  <string name="repeat_playlist">Opakovat playlist</string>
   <string name="ringtone_menu">Nastavit jako vyzvánění</string>
   <string name="ringtone_menu_short">Použít jako vyzvánění</string>
   <string name="ringtone_picker">Vyzvánění</string>
