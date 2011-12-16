@@ -6,7 +6,7 @@
   <string name="albumPickerNotFoundText">Stahovač obalů alb nenalezen.</string>
   <string name="album_display_settings">Zobrazit obaly alb</string>
   <string name="album_download">Stažení obalu alba</string>
-  <string name="album_downloading">Stahuji obal alba...</string>
+  <string name="album_downloading">Stahuji obal alba..</string>
   <string name="album_search_failed">Obal alba nenalezen</string>
   <string name="album_search_result">Výsledky hledání obalů</string>
   <string name="albums_title">Album</string>
@@ -17,7 +17,7 @@
   <string name="artists_title">Umělec</string>
   <string name="batch_operation_confirm">"Potvrďte operaci '%1$s' na vybraných %2$d skladbách"</string>
   <string name="batch_operation_one_song_confirm">"Potvrďte operaci '%s' na vybrané skladbě"</string>
-  <string name="buffering">Načítám...</string>
+  <string name="buffering">Načítám..</string>
   <string name="cancel">Storno</string>
   <string name="cancel_sleep_mode">Vypnout režim spánku</string>
   <string name="clear_search_history">Smazat historii hledání</string>
@@ -57,7 +57,7 @@
   <string name="durationformatshort">%2$2d:%5$02d</string>
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
   <string name="edit_album_name">Název alba</string>
-  <string name="edit_all_songs_id3_backgroud">Měním ID3 informace...</string>
+  <string name="edit_all_songs_id3_backgroud">Měním ID3 informace..</string>
   <string name="edit_all_songs_id3_msg">Dojde ke změně ID3 informací</string>
   <string name="edit_artist_name">Jméno umělce</string>
   <string name="email_optional">Email je nepovinný</string>
@@ -97,7 +97,7 @@
   <string name="listen_to_online_summary">Poslouchat hudbu přes mobilní internet.</string>
   <string name="load_category_failed">Chyba při načítání seznamu kategorií, zkuste to znova</string>
   <string name="load_category_in_process">Načítám seznam</string>
-  <string name="loading">Načítání...</string>
+  <string name="loading">Načítání..</string>
   <string name="local_search_empty">Nenalezen žádný výsledek</string>
   <string name="lpa_off_hint">Pro znovu zapnutí ekvalizéru zrušte přehrávání s nízkou spotřebou pomocí Nastavení -&gt; Systém -&gt; Baterie ,spotřeba baterie se zvýší.</string>
   <string name="lrc_progress_modify">Přizpůsobení textu písně</string>
@@ -172,7 +172,7 @@
   <string name="ringtone_set">Skladba %s byla nastavena jako vyzváněcí tón.</string>
   <string name="save">Uložit</string>
   <string name="save_as_playlist">Uložit jako seznam</string>
-  <string name="scanning">Prohledávám SD kartu...</string>
+  <string name="scanning">Prohledávám SD kartu..</string>
   <string name="screen_bright_wake">Nezamykat obrazovku</string>
   <string name="screen_bright_wake_summary">Nevypne se podsvícení displeje</string>
   <string name="search_failed">Vyhledávání neúspěšné</string>
@@ -212,7 +212,7 @@
   <string name="start_play_shuffle">Náhodné přehrávání</string>
   <string name="stop_when_wifi_disconnect">Wifi připojení bylo přerušeno. Přehrávání online skladby pokračuje přes mobilní data. Toto můžete změnit v Nastavení.</string>
   <string name="submit_feedback">Odeslat připomínku</string>
-  <string name="sync_now">Synchronizuji...</string>
+  <string name="sync_now">Synchronizuji..</string>
   <string name="to_album">Alba</string>
   <string name="to_artist">Umělci</string>
   <string name="to_search">Hledání</string>
@@ -235,6 +235,6 @@
   <string name="use_local_album">Použít lokální obaly alba</string>
   <string name="use_local_lyric">Použít lokální texty písní</string>
   <string name="widget_1x">Music_1x</string>
-  <string name="working_playlists">Seznamy...</string>
+  <string name="working_playlists">Seznamy..</string>
   <string name="zero_count">(0)</string>
 </resources>
